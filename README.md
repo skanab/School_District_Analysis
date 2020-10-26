@@ -58,6 +58,9 @@ Analysis to include:
     ![scores by size before](https://github.com/skanab/School_District_Analysis/blob/main/Resources/before_scores_by_size.PNG?raw=true)
     ![scores by size after](https://github.com/skanab/School_District_Analysis/blob/main/Resources/after_scores_by_size.PNG?raw=true)
     * Scores by school type
+        * Small reduction in & passed in charter schools.
+    ![school type before](https://github.com/skanab/School_District_Analysis/blob/main/Resources/before_school_type.PNG?raw=true)
+    ![school type after after](https://github.com/skanab/School_District_Analysis/blob/main/Resources/after_school_type.PNG?raw=true)
 
 
 ## Summary
@@ -65,4 +68,5 @@ Summarize four major changes in the updated school district analysis after readi
 
 * A huge degcress in both math and reading percentage passed until 9th graders were removed from student population.
 * 9th grade averages not possible to calculate for THS 9th graders.
-* Reduction in Math and Eeading % passed in medium sized schools 
+* Reduction in Math and Eeading % passed at medium sized schools 
+* Reduction in Math and Eeading % passed at Charter Schools.
