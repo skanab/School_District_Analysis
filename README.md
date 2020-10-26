@@ -50,12 +50,19 @@ Analysis to include:
 
 * How does replacing the ninth-grade scores affect the following:
     * Math and reading scores by grade
-        * no math or reading scores can be calu
+        * no math or reading scores can be calulated for THS 9th graders
     ![Math by Grade](https://github.com/skanab/School_District_Analysis/blob/main/Resources/math_by_grade.PNG?raw=true)
     * Scores by school spending
     * Scores by school size
+        * reduction in medium due to drop in both math and reading % passed at THS. THS is a medium sized school.
+    ![scores by size before](https://github.com/skanab/School_District_Analysis/blob/main/Resources/before_scores_by_size.PNG?raw=true)
+    ![scores by size after](https://github.com/skanab/School_District_Analysis/blob/main/Resources/after_scores_by_size.PNG?raw=true)
     * Scores by school type
 
 
 ## Summary
 Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+
+* A huge degcress in both math and reading percentage passed until 9th graders were removed from student population.
+* 9th grade averages not possible to calculate for THS 9th graders.
+* Reduction in Math and Eeading % passed in medium sized schools 
