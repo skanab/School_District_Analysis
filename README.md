@@ -53,6 +53,8 @@ Analysis to include:
         * no math or reading scores can be calulated for THS 9th graders
     ![Math by Grade](https://github.com/skanab/School_District_Analysis/blob/main/Resources/math_by_grade.PNG?raw=true)
     * Scores by school spending
+    ![spendimg before](https://github.com/skanab/School_District_Analysis/blob/main/Resources/before_spending.PNG?raw=true)
+    ![spending after](https://github.com/skanab/School_District_Analysis/blob/main/Resources/after_spending.PNG?raw=true)
     * Scores by school size
         * reduction in medium due to drop in both math and reading % passed at THS. THS is a medium sized school.
     ![scores by size before](https://github.com/skanab/School_District_Analysis/blob/main/Resources/before_scores_by_size.PNG?raw=true)
